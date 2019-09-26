@@ -9,10 +9,10 @@ This repo is a container for large files that cannot be held in Discord due to f
 
 # Current Files
 
-File: hd_lowes_hw_ratios.pdf\
+File: hd_lowes_hw_ratios_hw.pdf\
 Class: Financial Accounting\
 Desc: Home Depot and Lowes ratios / DuPont analysis\
 
-File: \
+File: ob_midterm.sheet.pdf\
 Class: Ogranizational Behavior\
 Desc: Study guide for the midterm; 17 Oct 2019\
